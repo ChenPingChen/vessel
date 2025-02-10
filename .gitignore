@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+vessel/clear_cache.py
+
+# models
+vessel/osnet_x0_25_msmt17.pt
+vessel/asiabay_demo_20250114_T2_yolo11s.pt
 # C extensions
 *.so
 

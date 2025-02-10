@@ -1,0 +1,12 @@
+ultralytics
+easydict
+gdown
+tensorboard
+numpy==1.26.4
+faiss-cpu
+opencv-python
+rasterio
+django
+djangorestframework
+python-dotenv
+drf-yasg
