@@ -1,0 +1,11 @@
+camera4_measurement:
+  enabled: true
+  zone:
+    name: "測量區域"
+    pixel_coord: [1022, 455, 3344, 1892]  # [x1, y1, x2, y2]
+  scale_reference:
+    point1: [27, 409]  # [x1, y1]
+    point2: [3340, 417]  # [x2, y2]
+    real_distance: 181.9 # meters
+  vessel_size_calibration:
+    width_ratio: 3.5
